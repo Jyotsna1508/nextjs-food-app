@@ -1,3 +1,14 @@
+This project is still under progress, for now only frontend part is added. To run this project please checkout the code run npm install 
+
+Blow is the screenshot of the project
+
+<img width="1594" height="967" alt="image" src="https://github.com/user-attachments/assets/272e40b5-8a35-44fd-8bb0-a06119e5f610" />
+<img width="1594" height="967" alt="image" src="https://github.com/user-attachments/assets/c002f279-0bb5-4278-b257-1e63c70be8e7" />
+<img width="1710" height="1035" alt="image" src="https://github.com/user-attachments/assets/bb04b056-731e-4406-9fe0-cfb57a6b9cf5" />
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
