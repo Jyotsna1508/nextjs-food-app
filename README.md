@@ -3,7 +3,7 @@ This project is still under progress, for now only frontend part is added. To ru
 Blow is the screenshot of the project
 
 <img width="1594" height="967" alt="image" src="https://github.com/user-attachments/assets/272e40b5-8a35-44fd-8bb0-a06119e5f610" />
-<img width="1594" height="967" alt="image" src="https://github.com/user-attachments/assets/c002f279-0bb5-4278-b257-1e63c70be8e7" />
+<img width="1708" height="1025" alt="image" src="https://github.com/user-attachments/assets/4b7bb9bc-5f8e-486c-98ea-11341a2ce161" />
 <img width="1710" height="1035" alt="image" src="https://github.com/user-attachments/assets/bb04b056-731e-4406-9fe0-cfb57a6b9cf5" />
 
 
