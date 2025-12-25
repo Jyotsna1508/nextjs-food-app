@@ -1,4 +1,4 @@
-This project is still under progress, for now only frontend part is added. To run this project please checkout the code run npm install 
+This project is still under progress, for now only frontend part is added I m currently working on this one. To run this project please checkout the code run npm install 
 
 Blow is the screenshot of the project
 
